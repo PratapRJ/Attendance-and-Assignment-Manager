@@ -1,0 +1,27 @@
+Backtracking
+How do you optimize a backtracking algorithm to efficiently generate all possible solutions for a given problem?
+How can backtracking be used to solve the N-Queens problem efficiently?
+How does backtracking algorithm optimize problem-solving by exploring all possible solutions and backtracking when a dead-end is reached?
+Explain how backtracking can be used to efficiently solve the N-Queens problem.
+How can you implement the backtracking algorithm to solve the N-Queens problem efficiently?
+How does backtracking help in finding all possible solutions to a problem by systematically exploring different choices?
+How can you efficiently generate all possible permutations of a set of numbers using backtracking?
+How can you efficiently generate all possible permutations of a given set of elements using backtracking?
+How can you efficiently generate all possible permutations of a given set of numbers using backtracking?
+In what scenario would you choose to use backtracking over other algorithmic techniques for problem solving?,
+
+Divide and conquer algorithms
+How can you implement the merge sort algorithm using a divide and conquer approach?
+How can you use the divide and conquer strategy to efficiently solve the maximum subarray sum problem?
+In what scenarios would you choose to implement a divide and conquer algorithm over other algorithmic paradigms for solving a problem efficiently on LeetCode?
+How does the divide and conquer algorithm approach improve the efficiency of solving complex computational problems?
+How can you optimize a divide and conquer algorithm to achieve a time complexity of O(log n)?
+How can you efficiently solve the maximum subarray sum problem using a divide and conquer approach?
+How can you apply the divide and conquer strategy to efficiently solve the maximum subarray sum problem?
+How can you apply the divide and conquer strategy to efficiently solve problems involving binary search trees?
+How can you implement the merge sort algorithm using a divide and conquer approach to efficiently sort an array of integers?
+How can you effectively apply the divide and conquer strategy to efficiently solve complex algorithmic problems?,
+
+Dynamic programming
+How can you use memoization to optimize a recursive solution for the Fibonacci sequence problem?
+Can you optimize the time complexity of a dynamic programming solution by implementing memoization?,

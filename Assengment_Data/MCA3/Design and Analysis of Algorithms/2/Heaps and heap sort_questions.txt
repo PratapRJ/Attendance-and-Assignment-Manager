@@ -1,0 +1,4 @@
+How can you implement Heap Sort algorithm using a min heap?
+ow does heap sort utilize the properties of a heap to achieve an efficient sorting algorithm?
+How does the use of a min-heap in heap sort ensure that the output array is sorted in ascending order?
+How can you implement heap sort efficiently using a binary heap data structure?
